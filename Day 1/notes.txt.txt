@@ -1,0 +1,6 @@
+to show something in the terminal we should use print function
+
+structure of while loop 
+"while condition:
+    ........
+"
